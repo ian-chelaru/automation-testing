@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd7c9928-d02d-4e8d-a7cd-dd486d721be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bWvIZ1owtk6YNVIMfW8jxZ0qQM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.unlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.FilterDdt">
+    <configuration name="FilterDdt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.features.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.features.filter" />
+      <option name="MAIN_CLASS_NAME" value="org.example.features.filter.FilterDdt" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Dwebdriver.chrome.driver=&quot;d:\drivers\chromedriver.exe&quot;" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterDdt.filter_by_price" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.features.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.features.filter" />
+      <option name="MAIN_CLASS_NAME" value="org.example.features.filter.FilterDdt" />
+      <option name="METHOD_NAME" value="filter_by_price" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterDdt.invalid_filter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.features.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.features.filter" />
+      <option name="MAIN_CLASS_NAME" value="org.example.features.filter.FilterDdt" />
+      <option name="METHOD_NAME" value="invalid_filter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchDdt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.features.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.features.search" />
+      <option name="MAIN_CLASS_NAME" value="org.example.features.search.SearchDdt" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Dwebdriver.chrome.driver=&quot;d:\drivers\chromedriver.exe&quot;" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchDdt.search_scaun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.features.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.features.search" />
+      <option name="MAIN_CLASS_NAME" value="org.example.features.search.SearchDdt" />
+      <option name="METHOD_NAME" value="search_scaun" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SearchDdt" />
+      <item itemvalue="JUnit.SearchDdt.search_scaun" />
+      <item itemvalue="JUnit.FilterDdt.filter_by_price" />
+      <item itemvalue="JUnit.FilterDdt.invalid_filter" />
+      <item itemvalue="JUnit.FilterDdt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FilterDdt" />
+        <item itemvalue="JUnit.FilterDdt.invalid_filter" />
+        <item itemvalue="JUnit.FilterDdt.filter_by_price" />
+        <item itemvalue="JUnit.SearchDdt" />
+        <item itemvalue="JUnit.SearchDdt.search_scaun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd7c9928-d02d-4e8d-a7cd-dd486d721be2" name="Default Changelist" comment="" />
+      <created>1588760584882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588760584882</updated>
+      <workItem from="1588760591918" duration="175000" />
+      <workItem from="1588760902530" duration="417000" />
+      <workItem from="1588761411114" duration="1126000" />
+      <workItem from="1588762577494" duration="4965000" />
+      <workItem from="1588940139013" duration="57000" />
+      <workItem from="1589209619836" duration="9062000" />
+      <workItem from="1589285214437" duration="9171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589294767331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589294767331" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1589294769621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589294769621" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1589294769621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589294769621" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1589294769621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589294769621" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1589294769621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589294769621" />
+    <state x="101" y="54" key="SettingsEditor" timestamp="1588762808168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="101" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588762808168" />
+    <state width="408" height="104" key="javadoc.popup.new" timestamp="1589294501981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="408" height="104" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1589294501981" />
+    <state x="209" y="114" key="new project wizard" timestamp="1588940203330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588940203330" />
+  </component>
+</project>

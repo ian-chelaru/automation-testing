@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2020-05-06T14:26:57.381+03:00","0.0","12.76"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2020-05-06T14:26:31.758+03:00","0.0","12.78"
+"Search by keyword story","Searching by keyword cup should display the corresponding article","SUCCESS","2020-05-06T14:26:14.011+03:00","0.0","16.94"
+"Search by keyword story","Searching by keyword pear should display the corresponding article","SUCCESS","2020-05-06T14:26:44.670+03:00","0.0","12.08"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.search.SearchDdt" skipped="0" tests="2" time="36.31" timestamp="2020-05-133 04:01:04"><testcase classname="org.example.features.search.SearchDdt" name="Invalid search"/><testcase classname="org.example.features.search.SearchDdt" name="Search scaun"/></testsuite>
